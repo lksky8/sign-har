@@ -3,5 +3,5 @@
 
 # 关于天翼云盘accesstoken与cookie
 * 两个代码都是抓包获取
-* cookie需要的内容可以查看
+* cookie需要填入签到后50MB礼包抓包获取的代码，如图所示
 * https://github.com/lksky8/sign-har/blob/main/pic/%E5%85%B3%E4%BA%8E%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98cookie.png?raw=true
